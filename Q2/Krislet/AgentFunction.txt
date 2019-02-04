@@ -1,0 +1,10 @@
+This line is for initializing.
+BallNull_0
+Ball X BallDistanceLessOne X GoalNull_0
+Ball X BallDistanceGreaterOne X BallDirectionIncorrect_1
+Ball X BallDistanceGreaterOne X BallDirectionCorrect X numOfDashedMoreThanTen_2
+Ball X BallDistanceGreaterOne X BallDirectionCorrect X numOfDashedLessThanTen_3
+Ball X BallDistanceLessOne X GoalRight X numOfDashedMoreThanTen_4
+Ball X BallDistanceLessOne X GoalLeft X numOfDashedMoreThanTen_4
+Ball X BallDistanceLessOne X GoalRight X numOfDashedLessThanTen_5
+Ball X BallDistanceLessOne X GoalLeft X numOfDashedLessThanTen_5
